@@ -12,3 +12,4 @@ git config --global user.email "Your email@example.com"
 
 git add . / добавляет все изменения в репозиторий
 git commit -m "Commit massage"
+c

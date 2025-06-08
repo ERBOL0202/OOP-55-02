@@ -1,0 +1,14 @@
+команды для регистрации данных
+
+
+git config --global user.email "Your email@example.com"
+----------------------------------------------------------
+
+команды один раз на проект
+ git init   / для инициадизации репозитория
+ git remote add origin https://github.com/ERBOL0202/OOP-55-02.git
+
+ --------------------------------------------
+
+git add . / добавляет все изменения в репозиторий
+git commit -m "Commit massage"

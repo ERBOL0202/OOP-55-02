@@ -9,6 +9,7 @@ class Person:
         return self.age >= 18
 person1 = Person("Джинву", 24)
 person2 = Person("ДжинА", 16)
-
+print = (f"{person1.name} - {person1.is_adult()}")
+print = (f"{person2.name} - {person2.is_adult()}")
 
 

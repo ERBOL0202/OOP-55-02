@@ -12,4 +12,19 @@ git config --global user.email "Your email@example.com"
 
 git add . / добавляет все изменения в репозиторий
 git commit -m "Commit massage"
-c
+git rm - --cached name_dir удаляет дирикторий
+
+
+clear
+cd dir_NAME  cd ../ для перемещения директориями
+ls     для просмотра директории и файлов
+ls -a просмотреть все файлы и директории даже если они скрыты
+
+mkdir name для создания директория
+touch file для создания файла
+
+feat:    для фичей
+update:  для обновлений в файлах проекта
+delete:   для описания того что удалили
+fix:     для описания фикса
+hot-fix:  для исправления на проде

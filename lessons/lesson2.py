@@ -17,3 +17,7 @@ class WarriorHero(Hero):
         print(f"WarriorHero!!!")
 hero_1 = WarriorHero("Hero 1", 11, 100, 1000)
 hero_1.action()
+
+#CamelCase
+#snake_case
+

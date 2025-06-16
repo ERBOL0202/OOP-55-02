@@ -12,6 +12,10 @@ git config --global user.email "Your email@example.com"
 
 git add . / добавляет все изменения в репозиторий
 git commit -m "Commit massage"
+git branch показывает ветки в репезатории
+git branch name_branch
+git switch name_branch
+
 git push origin master отправляет в репозиторий
 git rm - --cached name_dir удаляет дирикторий
 

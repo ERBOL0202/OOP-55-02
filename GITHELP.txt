@@ -15,9 +15,11 @@ git commit -m "Commit massage"
 git branch показывает ветки в репезатории
 git branch name_branch
 git switch name_branch
+git branch -d "branch name" удалить репозиторий
 
 git push origin master отправляет в репозиторий
 git rm - --cached name_dir удаляет дирикторий
+git fetch --all   для стягивания всех веток репозитория
 
 
 clear
@@ -33,3 +35,11 @@ update:  для обновлений в файлах проекта
 delete:   для описания того что удалили
 fix:     для описания фикса
 hot-fix:  для исправления на проде
+
+
+.venv\Scripts\activate
+payton  -m venv создание
+pip freeze -> requirements.txt для сохранения зависимостей
+git reset  сброс то что находится после команды git add
+
+git clone link_to_repo для клонирование из Github
